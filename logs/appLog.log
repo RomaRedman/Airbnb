@@ -1,0 +1,10 @@
+2015-12-01 16:24:27 [main] INFO  Version:37 - HHH000412: Hibernate Core {5.0.3.Final}
+2015-12-01 16:24:27 [main] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2015-12-01 16:24:27 [main] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2015-12-01 16:24:27 [main] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2015-12-01 16:24:27 [main] WARN  DriverManagerConnectionProviderImpl:72 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2015-12-01 16:24:27 [main] INFO  DriverManagerConnectionProviderImpl:128 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/Airbnb]
+2015-12-01 16:24:27 [main] INFO  DriverManagerConnectionProviderImpl:137 - HHH000046: Connection properties: {user=root, password=****, autocommit=false}
+2015-12-01 16:24:27 [main] INFO  DriverManagerConnectionProviderImpl:142 - HHH000006: Autocommit mode: false
+2015-12-01 16:24:27 [main] INFO  DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 10 (min=1)
+2015-12-01 16:24:28 [main] INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
